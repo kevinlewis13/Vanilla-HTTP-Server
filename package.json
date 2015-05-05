@@ -4,7 +4,11 @@
   "description": "vanilla http server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/grunt-cli/bin/grunt test_suite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinlewis13/Vanilla-HTTP-Server.git"
   },
   "author": "Kevin Lewis",
   "license": "MIT",
